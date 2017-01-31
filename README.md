@@ -1,2 +1,2 @@
 # SEM
-Test repository for SEM Course
+Repository for SEM Course
